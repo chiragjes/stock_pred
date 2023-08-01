@@ -1,0 +1,7 @@
+prophet
+numpy
+pycharm
+Cython
+streamlit
+yfinance
+plotly
